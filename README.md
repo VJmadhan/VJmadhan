@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VJmadhan
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning powerBI
-- 💞️ I’m looking to collaborate with Data Scientists,Machine learners and AI developers
+- 👀 I’m interested in Devops engineer/sre
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate with Devops engineer,Data Scientists,Machine learners and AI developers
 - 📫 Catch me on VJonnakuti_GPS@nec.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Need spark will fire ....
